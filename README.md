@@ -1,6 +1,6 @@
 # Somasundar.Dev.Logging
 
-This Logging & Monitoring Library is a lightweight and extensible NuGet package designed to provide robust logging and real-time monitoring functionality for .NET applications. The library enables developers to seamlessly integrate logging capabilities into their applications, track events, and monitor the system’s health with minimal configuration.
+This Logging & Monitoring Library is a lightweight and extensible NuGet package designed to provide robust logging and real-time monitoring functionality for .NET applications. The library enables developers to seamlessly integrate logging capabilities into their applications, track events, and monitor the system’s health with minimal configuration. This Logging & Monitoring Library provides a standardized logging framework for all APIs, supporting structured logging, distributed tracing, and real-time application monitoring. It integrates with Serilog, AWS CloudWatch, OpenTelemetry, and ELK (Elasticsearch, Logstash, Kibana).
 
 ## Key features include:
 
